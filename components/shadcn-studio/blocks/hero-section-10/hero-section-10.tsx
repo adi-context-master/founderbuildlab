@@ -49,7 +49,7 @@ const HeroSection = ({ avatars }: { avatars: AvatarItem[] }) => {
           className='mt-6 text-center'
         >
           <p className='max-w-2xl text-lg text-muted-foreground sm:text-xl'>
-            From &apos;<span className='line-through italic opacity-70'>we will need 6 weeks</span>&apos; to &apos;done in 20 minutes.&apos;
+            From &apos;<span className='line-through italic opacity-70'>we will need 6 weeks to build this</span>&apos; to &apos;<code>I can do it in 20 mins</code>&apos;
           </p>
         </MotionPreset>
 

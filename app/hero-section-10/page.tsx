@@ -5,28 +5,23 @@ import type { AvatarItem } from '@/components/shadcn-studio/blocks/hero-section-
 const avatars: AvatarItem[] = [
   {
     src: 'https://cdn.shadcnstudio.com/ss-assets/avatar/avatar-1.png',
-    name: 'Sarah Chen, Founder @ TechStart',
-    fallback: 'SC'
+    name: 'Booker Woodford, Co-founder @ Emote Care',
+    fallback: 'BW'
   },
   {
     src: 'https://cdn.shadcnstudio.com/ss-assets/avatar/avatar-2.png',
-    name: 'Mike Rodriguez, Co-founder @ BuildFast',
-    fallback: 'MR'
+    name: 'Joe Morse, Co-founder @ Emote Care',
+    fallback: 'JM'
   },
   {
     src: 'https://cdn.shadcnstudio.com/ss-assets/avatar/avatar-3.png',
-    name: 'Priya Patel, Founder @ LaunchPad',
-    fallback: 'PP'
+    name: 'Vivek Singh, CEO @ Corsecotech',
+    fallback: 'VS'
   },
   {
     src: 'https://cdn.shadcnstudio.com/ss-assets/avatar/avatar-4.png',
-    name: 'James Kim, CEO @ ShipIt',
-    fallback: 'JK'
-  },
-  {
-    src: 'https://cdn.shadcnstudio.com/ss-assets/avatar/avatar-5.png',
-    name: 'Emma Liu, Founder @ NextGen',
-    fallback: 'EL'
+    name: 'Theresa Gschwandner, Founder @ Kundra',
+    fallback: 'TG'
   }
 ]
 
